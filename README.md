@@ -10,3 +10,6 @@ La nostra aplicació tindrà bàsicament les següents classes:
   - JPA és un ORM. Mapeja estructures d’una BD relacional a objectes Java.
 - En aquest cas només farem el llistat de llibres findAll
 - BookController.java. Exposa els mètodes que permeten connectar-se a l’aplicació a través de crides http. En aquest cas NOMÉS llistarem els llibres
+
+
+Veure Tutorial en pdf: [Mini_Ap_Spring_Boot_Jpa_H2.pdf](Mini_Ap_Spring_Boot_Jpa_H2.pdf)
